@@ -1,5 +1,6 @@
 # NBA Shot Probability with SportVU and Play by Play data
 NBA SportVU data is a spatiotemporal database that tracks the 10 players and the ball 25 times a second.
+
 Play by Play data is an event based database that describes the event that occured in the game (shot, rebound, turnover etc.)
 
 These two databases were combined and a probability model was developed that predicts if a shot will go in.
